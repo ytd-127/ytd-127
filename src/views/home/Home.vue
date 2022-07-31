@@ -58,26 +58,7 @@ body{
     border-top: 3px solid rgb(255, 255, 255);
 	
 }
-#toptt{
-	position:absolute;
-	top:35%;
-	width:100%;
-	text-align:center;
-	cursor:default;
-    -webkit-user-select:none;
-   -moz-user-select:none;
-   -ms-user-select:none;
-   user-select:none;
-}
-.wxtx{
 
-	width: 150px;
-	height: 150px;
-	border-radius: 50%;
-	overflow: hidden;
-	background-size:cover;
-	margin: 0 auto;
-}
 h1{
 	font-size:40px;
 	color:rgb(255, 255, 255);
